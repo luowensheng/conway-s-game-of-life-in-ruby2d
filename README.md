@@ -11,7 +11,7 @@
 <!-- ![screenshot](screenshot.png) -->
 
 
-### Square Colors meaning
+### Cell Color meaning
 - blue: ``` cell with 2 live neighbors ```
 - purple: ``` cell with 3 live neighbors ```
 - green: ``` revived cell ```
