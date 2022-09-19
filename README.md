@@ -5,7 +5,10 @@
 
 
 
-![screenshot](screenshot.png)
+![game](game.gif)
+
+
+<!-- ![screenshot](screenshot.png) -->
 
 
 ### Square Colors meaning
